@@ -38,13 +38,13 @@ os.system("figlet DDos Attack")
 
 print
 
-print "Author   : HA-MRX"
+print "Author   : 180x20"
 
-print "You Tube : https://www.youtube.com/c/HA-MRX"
+print "You Tube : https://m.youtube.com/channel/UC8C4VTvHl3UmsygF8BBC2Mg"
 
-print "github   : https://github.com/Ha3MrX"
+print "github   : https://github.com/180x20k"
 
-print "Facebook : https://www.facebook.com/muhamad.jabar222"
+print "----------------------------------------------------------------"
 
 print
 
